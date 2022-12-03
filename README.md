@@ -12,7 +12,7 @@
 
 </div>
 <div align="center"><br>
-  <img align="center" height="30" width="40" src="/cypress.png">
+  <img align="center" height="250" width="800" src="/cypress.png">
 
 </div>
   
