@@ -1,4 +1,6 @@
+<div align="center">
 ## Treinamento de testes automatizados pela Minsait
+</div>
 
 <div align="center">
 
