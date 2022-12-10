@@ -18,7 +18,7 @@
 
 #### Testes feito na página https://www.saucedemo.com.
 
-  <img align="center" height="250" width="800" src="/cypress.png">
+  <img align="center" height="250" width="250" src="/cypress.png">
 </div>
 
 <div align="center"><br>
