@@ -1,1 +1,5 @@
-// para ação deve se ter uma página com os elements e index respectivos
+
+export const ELEMENTS = {
+    carrinho: "#shopping_cart_container"
+
+}
