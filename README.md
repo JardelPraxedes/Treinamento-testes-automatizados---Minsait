@@ -16,14 +16,14 @@
 
 <div align="center"><br>
 
-#### Testes feito na página https://www.saucedemo.com.
+#### Testes feitos na página https://www.saucedemo.com.
 
   <img align="center" height="300" width="800" src="/cypress.png">
 </div>
 
 <div align="center"><br>
 
-#### Testes feito na página http://webdriveruniversity.com/Dropdown-Checkboxes-RadioButtons/index.html.
+#### Testes feitos na página http://webdriveruniversity.com/Dropdown-Checkboxes-RadioButtons/index.html.
 
   <img align="center" height="300" width="800" src="/image2.png">
 </div>
