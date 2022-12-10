@@ -6,6 +6,6 @@ module.exports = defineConfig({
       // implement node event listeners here
     },
     "chromeWebSecurity":false,
-    baseUrl: 'https://www.saucedemo.com/'
+    baseUrl: 'http://webdriveruniversity.com/Dropdown-Checkboxes-RadioButtons/index.html'
   },
 });

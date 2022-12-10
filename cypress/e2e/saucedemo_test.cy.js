@@ -1,6 +1,6 @@
 ///<reference types="cypress"/>
 describe("Minha primeira suite de teste", ()=>{
-    beforeEach(()=>{ //antes de cada it executa esse bloco (para evitar repetições ações em cada teste)
+    beforeEach(()=>{ //antes de cada it executa esse bloco (para evitar repetições em cada teste)
         cy.visit('https://www.saucedemo.com/') //entra pagina
         cy.get('#user-name').type('standard_user') //login
         cy.get('#password').type('secret_sauce')
