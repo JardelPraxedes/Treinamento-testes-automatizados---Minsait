@@ -6,7 +6,7 @@
 
 <div align="center">
 
-#### Os testes foram voltados para casos de testes em páginas web e teve como objetivo validar ações do usuário em relação as funcionalidades dessas aplicações.
+### Os testes foram voltados para casos de testes em páginas web e teve como objetivo validar ações do usuário em relação as funcionalidades dessas aplicações.
   
 ### Foi utilizado o Cypress que é um framework onde pode ser criado casos de testes para desenvolvimentos web.
 
