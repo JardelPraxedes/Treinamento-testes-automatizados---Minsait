@@ -10,7 +10,7 @@
   
 ### Foi utilizado o Cypress que é um framework onde pode ser criado casos de testes para desenvolvimentos web.
 
- <img align="center" height="250" width="800" src="/logo-cypress.png">
+ <img align="center" height="70" width="200" src="/logo-cypress.png">
 
 </div>
 
@@ -18,7 +18,7 @@
 
 #### Testes feito na página https://www.saucedemo.com.
 
-  <img align="center" height="250" width="250" src="/cypress.png">
+  <img align="center" height="250" width="800" src="/cypress.png">
 </div>
 
 <div align="center"><br>
