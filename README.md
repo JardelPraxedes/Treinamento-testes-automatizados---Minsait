@@ -10,6 +10,8 @@
   
 ### Foi utilizado o Cypress que é um framework onde pode ser criado casos de testes para desenvolvimentos web.
 
+ <img align="center" height="250" width="800" src="/logo-cypress.png">
+
 </div>
 
 <div align="center"><br>
